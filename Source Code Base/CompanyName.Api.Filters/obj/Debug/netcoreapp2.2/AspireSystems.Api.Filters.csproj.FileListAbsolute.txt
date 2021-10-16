@@ -1,0 +1,14 @@
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\AspireSystems.Api.Filters.deps.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\AspireSystems.Api.Filters.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\AspireSystems.Api.Filters.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\AspireSystems.Diagnostics.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\AspireSystems.Infrastructure.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\AspireSystems.Diagnostics.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\AspireSystems.Infrastructure.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\AspireSystems.Api.Filters.csprojAssemblyReference.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\AspireSystems.Api.Filters.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\AspireSystems.Api.Filters.AssemblyInfo.cs
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\AspireSystems.Api.Filters.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\AspireSystems.Api.Filters.csproj.CopyComplete
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\AspireSystems.Api.Filters.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\AspireSystems.Api.Filters.pdb

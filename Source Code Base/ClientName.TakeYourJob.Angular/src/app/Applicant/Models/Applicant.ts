@@ -1,0 +1,34 @@
+export class Applicant{
+             roleId:string=''; 
+             name:string=''; 
+             email:string=''; 
+             mobileNumber:number=0; 
+             dateOfBirth:string='';  
+             gender:string='';  
+             password:string='';  
+             confirmPassword:string='';  
+             city:string='';  
+             question:string='';  
+            answer:string='';
+            hSCBoard:string=''; 
+            hSCSpecialization:string='';  
+            hSCPassingYear:number=0; 
+            hSCMedium:string='';  
+            hSCPercentage:number=0;  
+        sSLCBoard:string='';  
+        sSLCPassingYear:number=0; 
+        sSLCMedium:string='';  
+       sSLCPercentage:number=0;  
+       qualification:string='';  
+       course:string='';  
+       specialization:string='';  
+       collegeName:string='';  
+       collegeType:string='';  
+       passingYear:number=0;  
+       professionalBackground:string='';  
+       location:string=''; 
+       jobType:string='';  
+       employmentType:string=''; 
+       skills:string='';  
+       experience:number=0;  
+}

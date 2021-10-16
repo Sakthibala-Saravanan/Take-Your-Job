@@ -1,0 +1,114 @@
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\Config\log4net.config
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\Config\log4net.prod.config
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\web.config
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\appsettings.prod.json
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\temp\empty.txt
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.deps.json
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.runtimeconfig.json
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.runtimeconfig.dev.json
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.dll
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.pdb
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.Base.dll
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.dll
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.dll
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessService.dll
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.Infrastructure.dll
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Service.dll
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.Base.pdb
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.pdb
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.pdb
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessService.pdb
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.Infrastructure.pdb
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb
+E:\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Service.pdb
+E:\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.csproj.AssemblyReference.cache
+E:\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.AssemblyInfoInputs.cache
+E:\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.AssemblyInfo.cs
+E:\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.csproj.CoreCompileInputs.cache
+E:\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.RazorAssemblyInfo.cache
+E:\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.RazorAssemblyInfo.cs
+E:\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.RazorTargetAssemblyInfo.cache
+E:\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.csproj.CopyComplete
+E:\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.dll
+E:\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.pdb
+E:\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.genruntimeconfig.cache
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\Config\log4net.config
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\Config\log4net.prod.config
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\web.config
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\appsettings.prod.json
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\temp\empty.txt
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.deps.json
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.runtimeconfig.json
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.runtimeconfig.dev.json
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.Base.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessService.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.Infrastructure.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Service.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.Base.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessService.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.Infrastructure.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Service.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.csproj.AssemblyReference.cache
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.AssemblyInfoInputs.cache
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.AssemblyInfo.cs
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.csproj.CoreCompileInputs.cache
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.RazorAssemblyInfo.cache
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.RazorAssemblyInfo.cs
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.RazorTargetAssemblyInfo.cache
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.csproj.CopyComplete
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.genruntimeconfig.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\web.config
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\appsettings.prod.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\Config\log4net.config
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\Config\log4net.prod.config
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\temp\empty.txt
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.deps.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.runtimeconfig.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.runtimeconfig.dev.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.Base.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessService.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.Infrastructure.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Service.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.Base.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Api.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessService.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.ProductName.Infrastructure.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\bin\Debug\netcoreapp2.2\CompanyName.Service.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.csprojAssemblyReference.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.AssemblyInfo.cs
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.RazorAssemblyInfo.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.RazorAssemblyInfo.cs
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.csproj.CopyComplete
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.WebApi\obj\Debug\netcoreapp2.2\CompanyName.ProductName.WebApi.genruntimeconfig.cache

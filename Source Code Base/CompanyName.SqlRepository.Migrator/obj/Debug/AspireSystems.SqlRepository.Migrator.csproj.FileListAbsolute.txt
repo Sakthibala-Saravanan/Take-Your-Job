@@ -1,0 +1,14 @@
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\TCC.SqlRepository.Migrator.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\TCC.SqlRepository.Migrator.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\CommandLine.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\CommandLine.xml
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.xml
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.Runner.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\AspireSystems.SqlRepository.Migrator.csprojAssemblyReference.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\AspireSystems.SqlRepository.Migrator.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\AspireSystems.SqlRepository.Migrator.csproj.CopyComplete
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\TCC.SqlRepository.Migrator.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\TCC.SqlRepository.Migrator.pdb

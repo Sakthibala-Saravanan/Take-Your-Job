@@ -1,0 +1,52 @@
+
+<html>
+<head>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="card mb-5 ">
+    <div class="card-header p-3 ">
+      <b style="font-size:x-large">Interviewer Details</b>
+      <a href="#" class="btn btn-dark float-end">Create</a>
+    </div>
+    <div class="card-body">
+      <div class="table-responsive">
+        -->
+        <table id="example" class="table table-hover table-bordered">
+          <thead style="background-color:steelblue">
+            <tr>
+              <th>Id</th>
+              <th>Name</th>
+              <th>CompanyName</th>
+              <th>MobileNumber</th>
+              <th>CompanyAddress</th>
+              <th>CompanyType</th>
+              <th>Pincode</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let interviewer of Interviewers">
+              <td>{{interviewer.id}}</td>
+              <td>{{interviewer.name}}</td>
+              <td>{{interviewer.companyName}}</td>
+              <td>{{interviewer.mobileNumber}}</td>
+              <td>{{interviewer.companyAddress}}</td>
+              <td>{{interviewer.companyType}}</td>
+              <td>{{interviewer.pincode}}</td>
+              <td>
+
+                <button type="button" class="newsubbutton btn btn-primary m-2" (click)="edit(interviewer)">Edit</button>
+                <button type="button" class="newsubbutton btn btn-primary m-2" (click)="delete(interviewer.id)">Delete</button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</body>
+<app-PutInterviewer [data]="item" *ngIf="editItem"></app-PutInterviewer>
+</html>
+

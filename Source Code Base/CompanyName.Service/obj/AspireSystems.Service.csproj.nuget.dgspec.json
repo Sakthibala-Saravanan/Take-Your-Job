@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Service\\AspireSystems.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Diagnostics\\AspireSystems.Diagnostics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Diagnostics\\AspireSystems.Diagnostics.csproj",
+        "projectName": "AspireSystems.Diagnostics",
+        "projectPath": "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Diagnostics\\AspireSystems.Diagnostics.csproj",
+        "packagesPath": "C:\\Users\\Sony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Diagnostics\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Infrastructure\\AspireSystems.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Infrastructure\\AspireSystems.Infrastructure.csproj",
+        "projectName": "AspireSystems.Infrastructure",
+        "projectPath": "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Infrastructure\\AspireSystems.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Sony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Diagnostics\\AspireSystems.Diagnostics.csproj": {
+                "projectPath": "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Diagnostics\\AspireSystems.Diagnostics.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.3.101, )"
+            },
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.3.100.1, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.3.101.7, )"
+            },
+            "AWSSDK.SQS": {
+              "target": "Package",
+              "version": "[3.3.100, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Service\\AspireSystems.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Service\\AspireSystems.Service.csproj",
+        "projectName": "AspireSystems.Service",
+        "projectPath": "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Service\\AspireSystems.Service.csproj",
+        "packagesPath": "C:\\Users\\Sony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Diagnostics\\AspireSystems.Diagnostics.csproj": {
+                "projectPath": "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Diagnostics\\AspireSystems.Diagnostics.csproj"
+              },
+              "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Infrastructure\\AspireSystems.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Sony\\Documents\\Visual Studio 2015\\Projects\\TakeYourJob\\Source Code Base\\CompanyName.Infrastructure\\AspireSystems.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

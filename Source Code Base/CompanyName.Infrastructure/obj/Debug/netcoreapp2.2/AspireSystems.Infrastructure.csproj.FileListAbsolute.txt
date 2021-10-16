@@ -1,0 +1,12 @@
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\AspireSystems.Infrastructure.deps.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\AspireSystems.Infrastructure.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\AspireSystems.Infrastructure.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\AspireSystems.Diagnostics.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\AspireSystems.Diagnostics.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\AspireSystems.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\AspireSystems.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\AspireSystems.Infrastructure.AssemblyInfo.cs
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\AspireSystems.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\AspireSystems.Infrastructure.csproj.CopyComplete
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\AspireSystems.Infrastructure.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\AspireSystems.Infrastructure.pdb

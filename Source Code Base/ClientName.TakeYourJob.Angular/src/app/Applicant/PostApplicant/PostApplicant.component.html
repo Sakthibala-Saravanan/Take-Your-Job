@@ -1,0 +1,250 @@
+<div class="topnav bg-dark">
+  <div class="topnav-centered">
+    <h2 class="text-white">Take Your Job</h2>
+  </div>
+</div>
+<div class="wrapper">
+  <div class="wrapped-div">
+    <div class="tab-header">
+      <h2>Applicant Registration</h2>
+    </div>
+    <div class="row">
+      <div class="col-md-10 offset-md-1">
+        <form #form="ngForm">
+          <p>Personal Details</p>
+          <div class="form-group">
+            <label id="label">Name</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="Name" name="applicantName"
+                   #formname="ngModel" [(ngModel)]="applicant.name" />
+
+          </div>
+
+          <div class="form-group">
+            <label id="label">Email</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="Email Id" name="email"
+                   #formemail="ngModel" [(ngModel)]="applicant.email" />
+
+
+            <br>
+          </div>
+          <div class="form-group">
+            <label id="label">Mobile Number</label>
+            <input type="number" class="form-control"
+                   placeholder="Address" name="mobileNumber"
+                   #formmobileNumber="ngModel" [(ngModel)]="applicant.mobileNumber" />
+            <br>
+          </div>
+          <div class="form-group">
+            <label id="label">Password</label>
+            <input type="password" class="form-control form-control-xsm"
+                   placeholder="Password" name="password"
+                   #formpassword="ngModel" [(ngModel)]="applicant.password" />
+
+
+            <br>
+          </div>
+          <div class="form-group">
+            <label id="label">Confirm Password</label>
+            <input type="password" class="form-control form-control-xsm"
+                   placeholder="Confirmpassword" name="confirmPassword"
+                   #formconfirmPassword="ngModel" [(ngModel)]="applicant.confirmPassword" />
+
+
+            <br>
+          </div>
+          <div class="form-group">
+            <label id="label">Date Of Birth</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="dateOfBirth" name="dateOfBirth"
+                   #formdateOfBirth="ngModel" [(ngModel)]="applicant.dateOfBirth" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">Gender</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="Gender" name="gender"
+                   #formgender="ngModel" [(ngModel)]="applicant.gender" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">City</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="city" name="city"
+                   #formcity="ngModel" [(ngModel)]="applicant.city" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">Question</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="Question" name="question"
+                   #formquestion="ngModel" [(ngModel)]="applicant.question" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">Answer</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="Answer" name="answer"
+                   #formanswer="ngModel" [(ngModel)]="applicant.answer" />
+            <br />
+          </div>
+          <p>School Details</p>
+          <div class="form-group">
+            <label id="label">HSC Board</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="HSC Board" name="hSCSBoard"
+                   #formhSCBoard="ngModel" [(ngModel)]="applicant.hSCBoard" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">HSC Specialization</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="HSC Specialization" name="hSCSpecialization"
+                   #formhSCSpecialization="ngModel" [(ngModel)]="applicant.hSCSpecialization" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">HSC PassingYear</label>
+            <input type="number" class="form-control form-control-xsm"
+                   placeholder="HSC PassingYear" name="hSCPassingYear"
+                   #formhSCPassingYear="ngModel" [(ngModel)]="applicant.hSCPassingYear" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">HSC Medium</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="HSC Medium" name="hSCMedium"
+                   #formhSCMedium="ngModel" [(ngModel)]="applicant.hSCMedium" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">HSC Percentage</label>
+            <input type="number" class="form-control form-control-xsm"
+                   placeholder="HSC Percentage" name="hSCPercentage"
+                   #formhSCPercentage="ngModel" [(ngModel)]="applicant.hSCPercentage" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">SSLC Board</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="SSLC Board" name="sSLCBoard"
+                   #formsSLCBoard="ngModel" [(ngModel)]="applicant.sSLCBoard" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">SSLC PassingYear</label>
+            <input type="number" class="form-control form-control-xsm"
+                   placeholder="SSLC PassingYear" name="sSLCPassingYear"
+                   #formsSLCPassingYear="ngModel" [(ngModel)]="applicant.sSLCPassingYear" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">SSLC Medium</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="SSLC Medium" name="sSLCMedium"
+                   #formsSLCMedium="ngModel" [(ngModel)]="applicant.sSLCMedium" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">SSLC Percentage</label>
+            <input type="number" class="form-control form-control-xsm"
+                   placeholder="SSLC Percentage" name="sSLCPercentage"
+                   #foranswersSLCPercentage="ngModel" [(ngModel)]="applicant.sSLCPercentage" />
+            <br />
+          </div>
+          <p>College Details</p>
+          <div class="form-group">
+            <label id="label">Qualification</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="Qualification" name="qualification"
+                   #form="ngModel" [(ngModel)]="applicant.qualification" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">Course</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="Course" name="course"
+                   #formcourse="ngModel" [(ngModel)]="applicant.course" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">Specialization</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="Specialization" name="specialization"
+                   #formspecialization="ngModel" [(ngModel)]="applicant.specialization" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">College Name</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="College Name" name="collegeName"
+                   #formcollegeName="ngModel" [(ngModel)]="applicant.collegeName" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">college Type</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="college Type" name="collegeType"
+                   #formcollegeType="ngModel" [(ngModel)]="applicant.collegeType" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">Passing Year</label>
+            <input type="number" class="form-control form-control-xsm"
+                   placeholder="Passing Year" name="passingYear"
+                   #formpassingYear="ngModel" [(ngModel)]="applicant.passingYear" />
+            <br />
+          </div>
+          <p>Work Details</p>
+          <div class="form-group">
+            <label id="label">Professional Background</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="Professional Background" name="professionalBackground"
+                   #formprofessionalBackground="ngModel" [(ngModel)]="applicant.professionalBackground" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">Location</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="Location" name="location"
+                   #formlocation="ngModel" [(ngModel)]="applicant.location" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">Job Type</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="Job Type" name="jobType"
+                   #formjobType="ngModel" [(ngModel)]="applicant.jobType" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">Employment Type</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="Employment Type" name="employmentType"
+                   #formemploymentType="ngModel" [(ngModel)]="applicant.employmentType" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">Skills</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="Skills" name="skills"
+                   #formskills="ngModel" [(ngModel)]="applicant.skills" />
+            <br />
+          </div>
+          <div class="form-group">
+            <label id="label">Experience</label>
+            <input type="number" class="form-control form-control-xsm"
+                   placeholder="Experience" name="experience"
+                   #formexperience="ngModel" [(ngModel)]="applicant.experience" />
+            <br />
+          </div>
+
+          <div class="form-group">
+            <span [style.padding-left]="'180px'"></span>  <button class="btn btn-info btn-lg btn-block" type="submit" [disabled]="form.invalid" (click)="onSubmit()">Register</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

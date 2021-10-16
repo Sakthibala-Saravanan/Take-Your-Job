@@ -1,0 +1,66 @@
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.csproj.AssemblyReference.cache
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.AssemblyInfoInputs.cache
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.AssemblyInfo.cs
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.csproj.CoreCompileInputs.cache
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\configs\TestingAppSettings.json
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\NotificationTemplate\NotificationTemplate.html
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.deps.json
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.runtimeconfig.json
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.runtimeconfig.dev.json
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Api.Base.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Api.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessService.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.Infrastructure.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Service.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessService.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Api.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Api.Base.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.Infrastructure.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Service.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.csproj.CopyComplete
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.dll
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.genruntimeconfig.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\configs\TestingAppSettings.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\NotificationTemplate\NotificationTemplate.html
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.deps.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.runtimeconfig.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.runtimeconfig.dev.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Api.Base.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Api.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessService.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.Infrastructure.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Service.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessService.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Api.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Api.Base.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.ProductName.Infrastructure.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\bin\Debug\netcoreapp2.2\CompanyName.Service.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.csprojAssemblyReference.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.AssemblyInfo.cs
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.csproj.CopyComplete
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.ProductName.BusinessServiceTests\obj\Debug\netcoreapp2.2\CompanyName.ProductName.BusinessServiceTests.genruntimeconfig.cache

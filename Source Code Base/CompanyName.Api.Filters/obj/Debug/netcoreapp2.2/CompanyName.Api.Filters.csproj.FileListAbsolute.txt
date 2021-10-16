@@ -1,0 +1,42 @@
+E:\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.deps.json
+E:\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.dll
+E:\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.pdb
+E:\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+E:\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+E:\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+E:\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb
+E:\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.csproj.AssemblyReference.cache
+E:\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.AssemblyInfoInputs.cache
+E:\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.AssemblyInfo.cs
+E:\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.csproj.CoreCompileInputs.cache
+E:\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.csproj.CopyComplete
+E:\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.dll
+E:\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.deps.json
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.dll
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.csproj.AssemblyReference.cache
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.AssemblyInfoInputs.cache
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.AssemblyInfo.cs
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.csproj.CoreCompileInputs.cache
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.csproj.CopyComplete
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.dll
+E:\Training\Freshers\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.deps.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Api.Filters.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.csprojAssemblyReference.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.AssemblyInfo.cs
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.csproj.CopyComplete
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Api.Filters\obj\Debug\netcoreapp2.2\CompanyName.Api.Filters.pdb

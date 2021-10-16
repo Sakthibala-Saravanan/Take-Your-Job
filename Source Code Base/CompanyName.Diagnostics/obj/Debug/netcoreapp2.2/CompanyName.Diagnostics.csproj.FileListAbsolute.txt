@@ -1,0 +1,26 @@
+E:\Source Code Base\CompanyName.Diagnostics\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.deps.json
+E:\Source Code Base\CompanyName.Diagnostics\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+E:\Source Code Base\CompanyName.Diagnostics\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+E:\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.csproj.AssemblyReference.cache
+E:\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.AssemblyInfoInputs.cache
+E:\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.AssemblyInfo.cs
+E:\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.csproj.CoreCompileInputs.cache
+E:\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+E:\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.Diagnostics\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.deps.json
+E:\Training\Freshers\Source Code Base\CompanyName.Diagnostics\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+E:\Training\Freshers\Source Code Base\CompanyName.Diagnostics\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.AssemblyInfoInputs.cache
+E:\Training\Freshers\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.AssemblyInfo.cs
+E:\Training\Freshers\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.csproj.CoreCompileInputs.cache
+E:\Training\Freshers\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+E:\Training\Freshers\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Diagnostics\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.deps.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Diagnostics\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Diagnostics\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.AssemblyInfo.cs
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\CompanyName.Diagnostics.csprojAssemblyReference.cache

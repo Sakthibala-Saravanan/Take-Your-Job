@@ -1,0 +1,36 @@
+E:\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.deps.json
+E:\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+E:\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb
+E:\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+E:\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+E:\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.csproj.AssemblyReference.cache
+E:\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.AssemblyInfoInputs.cache
+E:\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.AssemblyInfo.cs
+E:\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.csproj.CopyComplete
+E:\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+E:\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.deps.json
+E:\Training\Freshers\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+E:\Training\Freshers\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+E:\Training\Freshers\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.csproj.AssemblyReference.cache
+E:\Training\Freshers\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.AssemblyInfoInputs.cache
+E:\Training\Freshers\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.AssemblyInfo.cs
+E:\Training\Freshers\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Training\Freshers\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.csproj.CopyComplete
+E:\Training\Freshers\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+E:\Training\Freshers\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.deps.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Infrastructure\bin\Debug\netcoreapp2.2\CompanyName.Diagnostics.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.AssemblyInfo.cs
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.csproj.CopyComplete
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.Infrastructure\obj\Debug\netcoreapp2.2\CompanyName.Infrastructure.pdb

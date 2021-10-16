@@ -1,0 +1,28 @@
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\TCC.SqlRepository.Migrator.dll
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\TCC.SqlRepository.Migrator.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\CommandLine.dll
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.dll
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.Runner.dll
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\CommandLine.xml
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.xml
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.Runner.pdb
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\CompanyName.SqlRepository.Migrator.csproj.AssemblyReference.cache
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\CompanyName.SqlRepository.Migrator.csproj.CoreCompileInputs.cache
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\CompanyName.SqlRepository.Migrator.csproj.CopyComplete
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\TCC.SqlRepository.Migrator.dll
+E:\Training\Freshers\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\TCC.SqlRepository.Migrator.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\TCC.SqlRepository.Migrator.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\TCC.SqlRepository.Migrator.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\CommandLine.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\CommandLine.xml
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.xml
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\bin\Debug\FluentMigrator.Runner.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\CompanyName.SqlRepository.Migrator.csprojAssemblyReference.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\CompanyName.SqlRepository.Migrator.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\CompanyName.SqlRepository.Migrator.csproj.CopyComplete
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\TCC.SqlRepository.Migrator.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\Prasanna project\Source Code Base\CompanyName.SqlRepository.Migrator\obj\Debug\TCC.SqlRepository.Migrator.pdb

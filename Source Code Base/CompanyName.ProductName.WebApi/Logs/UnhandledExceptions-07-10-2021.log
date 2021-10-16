@@ -1,0 +1,29 @@
+ERROR 10-07 06:07:25.9382  [4]  System.Data.SqlClient.SqlException (0x80131904): The parameterized query '(@p0 uniqueidentifier,@p1 datetime,@p2 uniqueidentifier,@p3 bit,' expects the parameter '@p7', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteNonQuery(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.ExecuteSqlCommand(DatabaseFacade databaseFacade, RawSqlString sql, IEnumerable`1 parameters)
+   at AspireSystems.Service.Repository.BaseRepositoryAsync`1.AddQuery(String query, List`1 parameters) in C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\Repository\BaseRepositoryAsync.cs:line 232
+   at AspireSystems.TakeYourJob.BusinessService.Repository.InterviewerRepository.EntityPassing(Interviewer recruiter) in C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.ProductName.BusinessService\Repository\InterviewerRepository.cs:line 48
+   at AspireSystems.TakeYourJob.BusinessService.Services.InterviewerService.EntityPassing(Interviewer recruiter) in C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.ProductName.BusinessService\Services\InterviewerService.cs:line 28
+   at AspireSystems.TakeYourJob.WebApi.Controllers.InterviewerController.PostRecruiter(InterviewerDto recruiter) in C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.ProductName.WebApi\Controllers\InterviewerController.cs:line 46
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+ClientConnectionId:16991fa7-231f-47c0-bb9d-603bf70d697a
+Error Number:8178,State:1,Class:16
+User Name : 
+URL : /api/Interviewer/PostInterviewer
+Content : 
+

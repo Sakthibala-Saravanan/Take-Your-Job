@@ -1,0 +1,14 @@
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\bin\Debug\netcoreapp2.2\AspireSystems.Service.deps.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\bin\Debug\netcoreapp2.2\AspireSystems.Service.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\bin\Debug\netcoreapp2.2\AspireSystems.Service.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\bin\Debug\netcoreapp2.2\AspireSystems.Diagnostics.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\bin\Debug\netcoreapp2.2\AspireSystems.Infrastructure.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\bin\Debug\netcoreapp2.2\AspireSystems.Diagnostics.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\bin\Debug\netcoreapp2.2\AspireSystems.Infrastructure.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\obj\Debug\netcoreapp2.2\AspireSystems.Service.csprojAssemblyReference.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\obj\Debug\netcoreapp2.2\AspireSystems.Service.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\obj\Debug\netcoreapp2.2\AspireSystems.Service.AssemblyInfo.cs
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\obj\Debug\netcoreapp2.2\AspireSystems.Service.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\obj\Debug\netcoreapp2.2\AspireSystems.Service.csproj.CopyComplete
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\obj\Debug\netcoreapp2.2\AspireSystems.Service.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Service\obj\Debug\netcoreapp2.2\AspireSystems.Service.pdb

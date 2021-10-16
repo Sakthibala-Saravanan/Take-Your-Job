@@ -1,0 +1,9 @@
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Diagnostics\bin\Debug\netcoreapp2.2\AspireSystems.Diagnostics.deps.json
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Diagnostics\bin\Debug\netcoreapp2.2\AspireSystems.Diagnostics.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Diagnostics\bin\Debug\netcoreapp2.2\AspireSystems.Diagnostics.pdb
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\AspireSystems.Diagnostics.csprojAssemblyReference.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\AspireSystems.Diagnostics.AssemblyInfoInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\AspireSystems.Diagnostics.AssemblyInfo.cs
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\AspireSystems.Diagnostics.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\AspireSystems.Diagnostics.dll
+C:\Users\Sony\Documents\Visual Studio 2015\Projects\TakeYourJob\Source Code Base\CompanyName.Diagnostics\obj\Debug\netcoreapp2.2\AspireSystems.Diagnostics.pdb
