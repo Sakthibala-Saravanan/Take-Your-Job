@@ -12,11 +12,9 @@
     </div>
     <div class="card-body">
       <div class="table-responsive">
-        -->
         <table id="example" class="table table-hover table-bordered">
           <thead style="background-color:steelblue">
             <tr>
-              <th>Id</th>
               <th>Name</th>
               <th>CompanyName</th>
               <th>MobileNumber</th>
@@ -28,7 +26,6 @@
           </thead>
           <tbody>
             <tr *ngFor="let interviewer of Interviewers">
-              <td>{{interviewer.id}}</td>
               <td>{{interviewer.name}}</td>
               <td>{{interviewer.companyName}}</td>
               <td>{{interviewer.mobileNumber}}</td>

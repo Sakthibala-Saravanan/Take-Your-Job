@@ -23,6 +23,7 @@ this.service.login(this.formModel.Email,this.formModel.Password).subscribe(
 (res:any)=>{
   this.details=res;
   localStorage.setItem('token',this.details.token);
+  localStorage.setItem('roleName',this.details.roleName);
   localStorage.setItem('userId',JSON.stringify(this.details.userId));
   
   console.log(this.details);

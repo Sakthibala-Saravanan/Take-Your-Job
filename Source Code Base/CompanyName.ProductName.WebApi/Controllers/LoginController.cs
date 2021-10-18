@@ -59,6 +59,7 @@ namespace AspireSystems.TakeYourLogin.WebApi.Controllers
             var user = service.Authentication(Email, Password);
             var token = service.GenerateToken(user.Email, user.RoleDetails.RoleName);
             userId.UserId = user.Id.ToString();
+            userId.RoleName = user.RoleDetails.RoleName;
             userId.Token = token;
             return userId;
         }

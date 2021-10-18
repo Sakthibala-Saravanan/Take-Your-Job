@@ -43,6 +43,7 @@
     <TypeScriptCompile Include="src\app\Applicant\Models\Applicant.ts" />
     <TypeScriptCompile Include="src\app\Applicant\PostApplicant\PostApplicant.component.ts" />
     <TypeScriptCompile Include="src\app\Applicant\PutApplicant\PutApplicant.component.ts" />
+    <TypeScriptCompile Include="src\app\Dashboard\Dashboard.component.ts" />
     <TypeScriptCompile Include="src\app\Interviewer\Interviewer-routing.module.ts" />
     <TypeScriptCompile Include="src\app\Interviewer\Interviewer.module.ts" />
     <TypeScriptCompile Include="src\app\Interviewer\InterviewerService\Interviewer.service.ts" />
@@ -53,6 +54,10 @@
     <TypeScriptCompile Include="src\app\Login\Login.module.ts" />
     <TypeScriptCompile Include="src\app\Login\LoginService\Login.service.ts" />
     <TypeScriptCompile Include="src\app\Login\Login.component.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="src\app\Interviewer\NewFolder\" />
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

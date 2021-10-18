@@ -8,5 +8,6 @@ namespace AspireSystems.TakeYourJob.Infrastructure.Dtos
     {
         public string Token { get; set; }
         public string UserId { get; set; }
+        public string RoleName { get; set; }
     }
 }
