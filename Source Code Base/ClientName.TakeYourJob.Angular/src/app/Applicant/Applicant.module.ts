@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { PostApplicantComponent } from './PostApplicant/PostApplicant.component';
+import { PutApplicantComponent } from './PutApplicant/PutApplicant.component';
 import { ApplicantRoutingModule } from './Applicant-routing.module';
 import { GetApplicantComponent } from './GetApplicant/GetApplicant.component';
 import { ApplicantService } from './ApplicantService/Applicant.service';
@@ -11,7 +12,8 @@ import { FormsModule } from '@angular/forms';
 @NgModule({
   declarations: [
     GetApplicantComponent,
-    PostApplicantComponent
+    PostApplicantComponent,
+    PutApplicantComponent
   
   ],
   imports: [

@@ -16,4 +16,7 @@ export class ApplicantService {
   public put(body: any) {
     return this.service.put('api/Applicant', body);
   }
+ public delete(id:string) {
+    return this.service.delete('api/Applicant/'+id);
+  }
 }

@@ -8,7 +8,9 @@ import { ApplicantService } from '../ApplicantService/Applicant.service';
 export class GetApplicantComponent implements OnInit {
     
     public Applicants: any[] = [];
-    applicant:any;
+    item:any;
+    editItem:boolean=false;
+    
     constructor(private service: ApplicantService) { }
 
     ngOnInit(): void {
@@ -18,5 +20,23 @@ export class GetApplicantComponent implements OnInit {
 
         })
     }
+     reloadCurrentPage(){
+            window.location.reload();
+         }
+     edit(applicant:any){
+           this.item=applicant;
+           this.editItem=true;
+         }
+     delete(id:any){
+   this.service.delete(id).subscribe(
+res=>{
+     this.reloadCurrentPage();
+     console.log('scuccess');
+     },
+err=>{
+    console.log('error');
+}
+)
+}
     
 }

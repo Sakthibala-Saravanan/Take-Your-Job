@@ -9,6 +9,6 @@ mobileNumber:number=0;
 companyAddress:string='';
 companyType:string='';
 pincode:number=0;
-roleId:number=0;
+roleId:string='';
 status:boolean=false;
 }

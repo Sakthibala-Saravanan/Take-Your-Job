@@ -1,5 +1,7 @@
 export class Applicant{
-             roleId:string=''; 
+             id:string='';
+             roleId:string='';
+             status:boolean=false;
              name:string=''; 
              email:string=''; 
              mobileNumber:number=0; 
@@ -10,15 +12,15 @@ export class Applicant{
              city:string='';  
              question:string='';  
             answer:string='';
-            hSCBoard:string=''; 
-            hSCSpecialization:string='';  
-            hSCPassingYear:number=0; 
-            hSCMedium:string='';  
-            hSCPercentage:number=0;  
-        sSLCBoard:string='';  
-        sSLCPassingYear:number=0; 
-        sSLCMedium:string='';  
-       sSLCPercentage:number=0;  
+            hscBoard:string=''; 
+            hscSpecialization:string='';  
+            hscPassingYear:number=0; 
+            hscMedium:string='';  
+            hscPercentage:number=0;  
+        sslcBoard:string='';  
+        sslcPassingYear:number=0; 
+        sslcMedium:string='';  
+       sslcPercentage:number=0;  
        qualification:string='';  
        course:string='';  
        specialization:string='';  

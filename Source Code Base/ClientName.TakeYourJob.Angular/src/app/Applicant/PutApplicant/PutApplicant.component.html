@@ -1,10 +1,82 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title></title>
-</head>
-<body>
+<div class="topnav bg-dark">
+  <div class="topnav-centered">
+    <h2 class="text-white">Take Your Job</h2>
+  </div>
+</div>
+<div class="wrapper">
+  <div class="wrapped-div">
+    <div class="tab-header">
+      <h2>Edit Your Details</h2>
+    </div>
+    <div class="row">
+      <div class="col-md-10 offset-md-1">
+        <form #form="ngForm">
 
-</body>
-</html>
+          <div class="form-group">
+            <label>Mobile Number</label>
+            <input type="number" class="form-control"
+                   placeholder="Mobile Number" name="mobileNumber"
+                   #formmobileNumber="ngModel" [(ngModel)]="obj.mobileNumber" />
+            <br>
+          </div>
+          <div class="form-group">
+            <label>City</label>
+            <input type="text" class="form-control form-control-xsm"
+                   placeholder="City" name="city"
+                   #formcity="ngModel" [(ngModel)]="obj.city" />
+            <br>
+          </div>
+          <div class="form-group">
+            <label>Professional Background</label>
+            <input type="text" class="form-control"
+                   placeholder="Professional Background" name="professionalBackground"
+                   #formprofessionalBackground="ngModel" [(ngModel)]="obj.professionalBackground" />
+            <br>
+          </div>
+
+          <div class="form-group">
+            <label>Location</label>
+            <input type="text" class="form-control"
+                   placeholder="Location" name="location"
+                   #formlocation="ngModel" [(ngModel)]="obj.location" />
+            <br>
+          </div>
+
+          <div class="form-group">
+            <label>Job Type</label>
+            <input type="text" class="form-control"
+                   placeholder="Job Type" name="jobType"
+                   #formjobType="ngModel" [(ngModel)]="obj.jobType" />
+            <br>
+          </div>
+          <div class="form-group">
+            <label>Employment Type</label>
+            <input type="text" class="form-control"
+                   placeholder="Employment Type" name="employmentType"
+                   #formemploymentType="ngModel" [(ngModel)]="obj.employmentType" />
+            <br>
+          </div>
+          <div class="form-group">
+            <label>Skills</label>
+            <input type="text" class="form-control"
+                   placeholder="Skills" name="skills"
+                   #formskills="ngModel" [(ngModel)]="obj.skills" />
+            <br>
+          </div>
+          <div class="form-group">
+            <label>Experience</label>
+            <input type="number" class="form-control"
+                   placeholder="Experience" name="experience"
+                   #formexperience="ngModel" [(ngModel)]="obj.experience" />
+            <br>
+          </div>
+          <br>
+          <div class="form-group">
+            <!--<span [style.padding-left]="'180px'"></span>-->  <button class="btn btn-info btn-lg btn-block" type="submit" (click)="update()">Update</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
